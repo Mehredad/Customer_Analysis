@@ -29,5 +29,5 @@ The analysis is based on the following datasets:
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## 👨‍💻 Author
-- **Your Name**  
+- **Mehrdad Atariani**  
   [LinkedIn](https://linkedin.com/in/mehrdad-atariani)
